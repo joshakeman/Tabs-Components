@@ -54,7 +54,8 @@ class TabItem {
     });
     // this.element.classList.remove('tabs-item-selected');
     // Add a class named "tabs-item-selected" to this element
-    this.element.classList.add('tabs-item-selected');
+    this.element.classList.add('tabs-item-selected');.
+    
   }
 }
 
